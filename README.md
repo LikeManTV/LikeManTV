@@ -5,7 +5,10 @@
 ![HTML](https://img.shields.io/badge/-HTML-333333?style=flat&logo=html5)
 ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=css3)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
+![TypeScript](https://img.shields.io/badge/-TypeScript-333333?style=flat&logo=typescript)
+![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
 ![SQL](https://img.shields.io/badge/-SQL-333333?style=flat&logo=postgresql)
+![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
 
 ### 🗜 Some of the technologies I have worked with
 ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git&logoColor=F05032)
