@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hi, I'm LikeManTV.</h1>
+<h1 align="center">👋 Hi, welcome to my profile.</h1>
 <h3 align="center">I'm a hobbyst coder and a FiveM scripter.</h3>
 <br>
 
@@ -28,6 +28,9 @@
 ### 🗜 Some of the tools I have worked with:
 ![Git](https://img.shields.io/badge/Git-%234ea94b.svg?style=for-the-badge&logo=git&logoColor=white&color=F05033)
 ![GitHub](https://img.shields.io/badge/GitHub-%234ea94b.svg?style=for-the-badge&logo=github&logoColor=white&color=black)
+![Figma](https://img.shields.io/badge/Figma-%234ea94b.svg?style=for-the-badge&logo=figma&logoColor=white&color=F24E1E)
+![Photoshop](https://img.shields.io/badge/Photoshop-%234ea94b.svg?style=for-the-badge&logo=adobephotoshop&logoColor=white&color=31A8FF)
+![Premiere](https://img.shields.io/badge/Premiere-%234ea94b.svg?style=for-the-badge&logo=adobepremierepro&logoColor=white&color=9999FF)
 
 <img
   src="https://github-readme-stats.vercel.app/api/top-langs/?username=LikeManTV&layout=compact&theme=github_dark&hide_border=true"
