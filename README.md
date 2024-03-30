@@ -11,5 +11,7 @@
 
 ### 📞 Contact:
 Email: [**bussines.likemantv@gmail.com**](mailto:bussines.likemantv@gmail.com)<br>
-Instagram: [**@likemantv**](https://instagram.com/likemantv)
+Instagram: [**@likemantv**](https://instagram.com/likemantv)<br><br>
+
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/likemantv)
 </div>
