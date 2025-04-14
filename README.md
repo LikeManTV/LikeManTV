@@ -5,7 +5,6 @@
   <img src="https://komarev.com/ghpvc/?username=LikeManTV&label=Visitors&color=blue&style=for-the-badge&abbreviated=true">
 
   ---
-  ### 📊 Statistics
   <img
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=LikeManTV&layout=compact&theme=github_dark&hide_border=true"
   />
