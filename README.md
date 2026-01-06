@@ -5,9 +5,12 @@
   <img src="https://komarev.com/ghpvc/?username=LikeManTV&label=Visitors&color=blue&style=for-the-badge&abbreviated=true">
 
   ---
-  <img
+  <p>Are you looking for unique FiveM scripts? Check out <b>DIVERSITY</b>!</p>
+  <b>https://store.dvrst.eu</b>
+  
+  <!--<img
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=LikeManTV&layout=compact&theme=github_dark&hide_border=true"
-  />
+  />-->
   
   ---
   
